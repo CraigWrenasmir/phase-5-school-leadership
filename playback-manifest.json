@@ -40,10 +40,10 @@
     {
       "session": 3,
       "url": "media/session-3.mp4",
-      "bytes": 93469292,
-      "sha256": "9424ea5558ee121d4665feb80ce0283c298740d1a4d17d147e68a4710ea06977",
+      "bytes": 93420715,
+      "sha256": "8d2470763f283931fe86b284e304a80c1fc169f7473a3d58c073e332a216859a",
       "duration_seconds": 2590.208,
-      "source_sha256": "6654ed6d6fd073da657f726c2b1d15d3219c6837dd98f21b27c7f8b99b8e7f3c",
+      "source_sha256": "8bddc3755942c37952873fb4c831aa5db14f3d9f4be48140c49e98b5364b1fd3",
       "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--session-03.mp4",
       "codec": "H.264 High",
       "resolution": [
