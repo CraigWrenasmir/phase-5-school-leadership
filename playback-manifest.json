@@ -1,0 +1,109 @@
+{
+  "workshop": "School Leadership",
+  "website": "https://craigwrenasmir.github.io/phase-5-school-leadership/",
+  "playback": "Same-site web-optimised MP4s; full-quality recordings remain separate Release downloads.",
+  "sessions": [
+    {
+      "session": 1,
+      "url": "media/session-1.mp4",
+      "bytes": 41459753,
+      "sha256": "6602b4b61222cd4b7593847323612ca83e52c892838eaf8f3a7302d148ae8527",
+      "duration_seconds": 1224.853,
+      "source_sha256": "1a6a25fcb3402d15653a16e6d4edd5780c902fc7ff326a00332a4e313a583bca",
+      "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--session-01.mp4",
+      "codec": "H.264 High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frame_rate": 25,
+      "audio": "AAC stereo 48 kHz",
+      "faststart": true
+    },
+    {
+      "session": 2,
+      "url": "media/session-2.mp4",
+      "bytes": 97152147,
+      "sha256": "4644488c34edcdac869abbf9a73ad407a10383327028c8f75520375b52cb8046",
+      "duration_seconds": 1688.405,
+      "source_sha256": "9071d9405f2a0f70a2ce4fc29375cfcf30ef607577b414a31a69961714c9b51a",
+      "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--session-02.mp4",
+      "codec": "H.264 High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frame_rate": 25,
+      "audio": "AAC stereo 48 kHz",
+      "faststart": true
+    },
+    {
+      "session": 3,
+      "url": "media/session-3.mp4",
+      "bytes": 93469292,
+      "sha256": "9424ea5558ee121d4665feb80ce0283c298740d1a4d17d147e68a4710ea06977",
+      "duration_seconds": 2590.208,
+      "source_sha256": "6654ed6d6fd073da657f726c2b1d15d3219c6837dd98f21b27c7f8b99b8e7f3c",
+      "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--session-03.mp4",
+      "codec": "H.264 High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frame_rate": 25,
+      "audio": "AAC stereo 48 kHz",
+      "faststart": true
+    },
+    {
+      "session": 4,
+      "url": "media/session-4.mp4",
+      "bytes": 46208083,
+      "sha256": "8ce5bab8a795b30237f6a63232581abfef283c383197499e09eefab7917e8eac",
+      "duration_seconds": 1794.41,
+      "source_sha256": "128eb27e23eae1a76f33a08aedfa404e4252827c888d9bb56ca0ad084e36ff69",
+      "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--session-04.mp4",
+      "codec": "H.264 High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frame_rate": 25,
+      "audio": "AAC stereo 48 kHz",
+      "faststart": true
+    },
+    {
+      "session": 5,
+      "url": "media/session-5.mp4",
+      "bytes": 54429229,
+      "sha256": "63de2d424b3d52d55d38b312c140d237abacffe6fc82b09bc970a67a86041655",
+      "duration_seconds": 1941.845,
+      "source_sha256": "123dbc02881df4af2abacb9d16d6100b40f30d61c520debd311d00a6cbc3b97d",
+      "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--session-05.mp4",
+      "codec": "H.264 High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frame_rate": 25,
+      "audio": "AAC stereo 48 kHz",
+      "faststart": true
+    },
+    {
+      "session": 6,
+      "url": "media/session-6.mp4",
+      "bytes": 20177499,
+      "sha256": "96a8b4f7fb7a6257dc6bba59f4cf22b601929c731ce55a69c89b700669925513",
+      "duration_seconds": 773.738,
+      "source_sha256": "08f857056c29677ba581b22720cda7cb2b92c3e9dd1aecee7b3a500f69a2a4a0",
+      "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--session-06.mp4",
+      "codec": "H.264 High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frame_rate": 25,
+      "audio": "AAC stereo 48 kHz",
+      "faststart": true
+    }
+  ]
+}
