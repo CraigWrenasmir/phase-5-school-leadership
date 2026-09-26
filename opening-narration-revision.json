@@ -1,0 +1,46 @@
+{
+  "date": "2026-09-27",
+  "scope": "Affirmative opening narration",
+  "workshop": "School Leadership",
+  "voice": "Steve Hogan",
+  "sessions": [
+    {
+      "session": 1,
+      "slide": 1,
+      "segment_id": "s01_sl01_a",
+      "new_sentence": "We value students as they are and support their participation and belonging.",
+      "opening_start_seconds": 5,
+      "opening_end_seconds": 57.152,
+      "web": {
+        "url": "media/session-1.mp4?v=060fd2965b43",
+        "bytes": 41482370,
+        "sha256": "060fd2965b43228decdeadcb5716a910021b46a9473f59c9c18bfbf5465b6761"
+      },
+      "download": {
+        "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--session-01.mp4",
+        "bytes": 138894907,
+        "sha256": "436ec2211012e961cc83badb51fd8217603f432f6beadf2756a6afd191de281b"
+      },
+      "checks": {
+        "video_packets_and_timestamps_unchanged": true,
+        "audio_packets_and_timestamps_unchanged_outside_openings": true,
+        "duration_unchanged": true,
+        "chapters_unchanged": true,
+        "embedded_caption_text_matches": true,
+        "unwanted_wording_absent": true
+      }
+    }
+  ],
+  "combined_download": {
+    "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--full-workshop.mp4",
+    "bytes": 1235510222,
+    "sha256": "6ddfafa895380633a96b98ba0178436cff245a0038fd3815098a7235b5e960d6"
+  },
+  "preservation": {
+    "all_video_packets_unchanged": true,
+    "all_audio_packets_unchanged_outside_openings": true,
+    "chapter_and_slide_timing_unchanged": true,
+    "positive_autistic_identity_replacement_preserved": true
+  },
+  "source_documents": "Original downloadable source documents remain unchanged."
+}

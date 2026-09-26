@@ -12,7 +12,7 @@ Welcome to our School Leadership professional learning workshop. Today we're goi
 
 Keep the students you work with at the centre of the day. We'll build our understanding, look closely at everyday school routines, and consider what we can change in the environment, the task and the support we offer.
 
-Our starting point is curiosity. We are here to understand students and make participation more workable. We are not here to fix students or make them less Autistic. You don't need to arrive with all the answers. Bring your questions, your experience and a willingness to look again.
+Our starting point is curiosity. We are here to understand students and make participation more workable. We value students as they are and support their participation and belonging. You don't need to arrive with all the answers. Bring your questions, your experience and a willingness to look again.
 
 As leaders, you shape the conditions in which that understanding becomes everyday practice. We will keep different students in view as we look at school routines, culture, resourcing and partnership.
 
