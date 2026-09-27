@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-28",
+  "scope": "DDA/DSE coverage in Session1. Only affected sessions rebuilt from updated read-only masters; unchanged narration reused.",
+  "workshop": "School Leadership",
+  "basis_commit": "b9122d540cade0ee2b483f3f1edac2dce7f75f08",
+  "source_sessions": [
+    {
+      "session": 1,
+      "pptx": "PL Leadership - Session 1 - The Lens.pptx",
+      "pptx_sha256": "3483550627db628059e018cede746b864a0243620f2ac4cf30715340171d6769",
+      "pptx_bytes": 51147616,
+      "pdf": "PL Leadership - Session 1 - The Lens.pdf",
+      "pdf_sha256": "99bfb96526d785c67eb871b3c5e0c912ffbc661be642f2475233b9e57ae93929",
+      "pdf_bytes": 5815194,
+      "source_slides": 18
+    }
+  ],
+  "sessions": [
+    {
+      "number": 1,
+      "duration_seconds": 1362.52,
+      "source_slide_count": 18,
+      "full_sha256": "8fd68fa82556df8701d2f6696c3cd0e04cc8a5925aedaf534150be10823a36db",
+      "web_sha256": "2ea5b1962bf52c0a7c35c2bc600a5c8c947d2d1af1c00281f838b20177e3e368"
+    }
+  ],
+  "combined": {
+    "duration_seconds": 10151.08,
+    "sha256": "82239776cbfb5a332a612246e32bdee4dc7911112b4e0aa4384c74c76404d7a9",
+    "unchanged_session_picture_data_preserved": true
+  },
+  "total_source_slides": 121,
+  "playback": "Same-site web media. Full-quality Release assets are download-only.",
+  "narration": "Steve Hogan; unaffected narration retained. New or changed narration uses verified source-aligned text.",
+  "notes": "Original earlier revision records are preserved as historical evidence."
+}
