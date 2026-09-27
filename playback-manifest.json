@@ -40,10 +40,10 @@
     {
       "session": 3,
       "url": "media/session-3.mp4",
-      "bytes": 93420715,
-      "sha256": "8d2470763f283931fe86b284e304a80c1fc169f7473a3d58c073e332a216859a",
+      "bytes": 93417475,
+      "sha256": "4837d9e6f2f4ac6d490bda92f03ca6bbac5c2f5d3bdfcbe39876acb56bb7594d",
       "duration_seconds": 2590.208,
-      "source_sha256": "8bddc3755942c37952873fb4c831aa5db14f3d9f4be48140c49e98b5364b1fd3",
+      "source_sha256": "c2283c90693b350af7fe3171d55e2ff0adb9e5f6cfef4581400ec2ac395686c4",
       "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--session-03.mp4",
       "codec": "H.264 High",
       "resolution": [
@@ -57,10 +57,10 @@
     {
       "session": 4,
       "url": "media/session-4.mp4",
-      "bytes": 46208083,
-      "sha256": "8ce5bab8a795b30237f6a63232581abfef283c383197499e09eefab7917e8eac",
+      "bytes": 46490935,
+      "sha256": "3288799b02f39a0f892cb94b77ccdcae90715391d40359af1c91b77b12442c47",
       "duration_seconds": 1794.41,
-      "source_sha256": "128eb27e23eae1a76f33a08aedfa404e4252827c888d9bb56ca0ad084e36ff69",
+      "source_sha256": "2203d28e16e6a6d2f247b40cb15240cca1dca165c4e071d0287295d487255d8e",
       "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--session-04.mp4",
       "codec": "H.264 High",
       "resolution": [
@@ -74,10 +74,10 @@
     {
       "session": 5,
       "url": "media/session-5.mp4",
-      "bytes": 54429229,
-      "sha256": "63de2d424b3d52d55d38b312c140d237abacffe6fc82b09bc970a67a86041655",
+      "bytes": 54524796,
+      "sha256": "59f6d6dfc460e237b71bd2493bbd82bbe2aec3d26fdbf7a2f5ca1880f2225ff2",
       "duration_seconds": 1941.845,
-      "source_sha256": "123dbc02881df4af2abacb9d16d6100b40f30d61c520debd311d00a6cbc3b97d",
+      "source_sha256": "5f6eb5bccd0255574de96a22ef29f43e5d84cb3e421e5824d84f687a7a1a753d",
       "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--session-05.mp4",
       "codec": "H.264 High",
       "resolution": [
@@ -91,10 +91,10 @@
     {
       "session": 6,
       "url": "media/session-6.mp4",
-      "bytes": 20177499,
-      "sha256": "96a8b4f7fb7a6257dc6bba59f4cf22b601929c731ce55a69c89b700669925513",
+      "bytes": 19449192,
+      "sha256": "78bd60306f14d3a0ae02b2fb49f4644538e2df2e9431bed16629fb4928790b26",
       "duration_seconds": 773.738,
-      "source_sha256": "08f857056c29677ba581b22720cda7cb2b92c3e9dd1aecee7b3a500f69a2a4a0",
+      "source_sha256": "b992d16008e5f680ebf342f5112ad11a5afe0815369640ac7dc0f0879810bab4",
       "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--session-06.mp4",
       "codec": "H.264 High",
       "resolution": [

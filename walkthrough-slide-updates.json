@@ -1,0 +1,203 @@
+{
+  "updated": "2026-09-27",
+  "scope": "Supplied slide visual replacements in session videos, complete workshop download and published slide PDFs. Audio, captions, timings and source editable decks are unchanged.",
+  "basis_commit": "fd77ca0795e7435ad638fe3ae5fc4e3a1367cc58",
+  "replacements": [
+    {
+      "session": 3,
+      "slide": 26,
+      "title": "Positive Autistic Identity",
+      "requested_start": 2488,
+      "requested_end": 2590,
+      "start": 2488.8,
+      "end": 2590.2,
+      "png_sha256": "00a21d602ef86ade6a0c2861d29cb3147509cb4ebfb950975a69b7237016bce1",
+      "chapter_title": "Positive Autistic Identity",
+      "site_image": "assets/slide-updates/session-3-slide-26.png",
+      "pdf": "Original Assets/PL Leadership - Session 3 - Autistic Experience at School.pdf"
+    },
+    {
+      "session": 4,
+      "slide": 16,
+      "title": "Universal Design for Learning",
+      "requested_start": 1018,
+      "requested_end": 1076,
+      "start": 1018.0,
+      "end": 1076.28,
+      "png_sha256": "c5021be8edfd9b73a25d066af3c996cfcca0ec8a5b71e0641441c3ee32d4ff27",
+      "chapter_title": "Universal Design for Learning",
+      "site_image": "assets/slide-updates/session-4-slide-16.png",
+      "pdf": "Original Assets/PL Leadership - Session 4 - Learning Design.pdf"
+    },
+    {
+      "session": 4,
+      "slide": 22,
+      "title": "NCCD",
+      "requested_start": 1556,
+      "requested_end": 1621,
+      "start": 1556.72,
+      "end": 1621.6,
+      "png_sha256": "b298468a2865120ff853d36849ad052da8d07af53388ebbe3aba625039464bd1",
+      "chapter_title": "NCCD",
+      "site_image": "assets/slide-updates/session-4-slide-22.png",
+      "pdf": "Original Assets/PL Leadership - Session 4 - Learning Design.pdf"
+    },
+    {
+      "session": 5,
+      "slide": 17,
+      "title": "NCCD Meetings Tool Kit",
+      "requested_start": 1703,
+      "requested_end": 1785,
+      "start": 1703.52,
+      "end": 1785.56,
+      "png_sha256": "fa274632a4bb11834da232f356cf895cbf648a69f26845f9b2f6ff5b353409a8",
+      "chapter_title": "NCCD Meetings Tool Kit",
+      "site_image": "assets/slide-updates/session-5-slide-17.png",
+      "pdf": "Original Assets/PL Leadership - Session 5 - Working in Partnership.pdf"
+    },
+    {
+      "session": 6,
+      "slide": 8,
+      "title": "Connections that continue",
+      "requested_start": 563,
+      "requested_end": 637,
+      "start": 563.8,
+      "end": 637.8,
+      "png_sha256": "cc8cd81779124a29e9523b0b58da33059d34ad31e346244cf601c85f4894b2e8",
+      "chapter_title": "Connections that continue",
+      "site_image": "assets/slide-updates/session-6-slide-8.png",
+      "pdf": "Original Assets/PL Leadership - Session 6 - Flourishing and Full Circle.pdf"
+    },
+    {
+      "session": 6,
+      "slide": 10,
+      "title": "Feedback",
+      "requested_start": 663,
+      "requested_end": 720,
+      "start": 663.48,
+      "end": 720.32,
+      "png_sha256": "8e4878d3546daf9e88d1de419496aa54e9998cbf41fc99e67f858ad3eb026708",
+      "chapter_title": "Feedback",
+      "site_image": "assets/slide-updates/session-6-slide-10.png",
+      "pdf": "Original Assets/PL Leadership - Session 6 - Flourishing and Full Circle.pdf"
+    }
+  ],
+  "files": {
+    "media/session-3.mp4": {
+      "bytes": 93417475,
+      "sha256": "4837d9e6f2f4ac6d490bda92f03ca6bbac5c2f5d3bdfcbe39876acb56bb7594d"
+    },
+    "Original Assets/PL Leadership - Session 3 - Autistic Experience at School.pdf": {
+      "bytes": 8341064,
+      "sha256": "28d1d393385b61253fb7b022964c50dedad2915c6ac199464ee2d9f661de4dda"
+    },
+    "assets/slide-updates/session-3-slide-26.png": {
+      "bytes": 304549,
+      "sha256": "00a21d602ef86ade6a0c2861d29cb3147509cb4ebfb950975a69b7237016bce1"
+    },
+    "assets/positive-autistic-identity.png": {
+      "bytes": 304549,
+      "sha256": "00a21d602ef86ade6a0c2861d29cb3147509cb4ebfb950975a69b7237016bce1"
+    },
+    "media/session-4.mp4": {
+      "bytes": 46490935,
+      "sha256": "3288799b02f39a0f892cb94b77ccdcae90715391d40359af1c91b77b12442c47"
+    },
+    "Original Assets/PL Leadership - Session 4 - Learning Design.pdf": {
+      "bytes": 1657981,
+      "sha256": "b77ec94c684bdc339d135d7ebf56ba34b5dff8d21074c2842a5f3287af039452"
+    },
+    "assets/slide-updates/session-4-slide-16.png": {
+      "bytes": 203682,
+      "sha256": "c5021be8edfd9b73a25d066af3c996cfcca0ec8a5b71e0641441c3ee32d4ff27"
+    },
+    "assets/slide-updates/session-4-slide-22.png": {
+      "bytes": 95637,
+      "sha256": "b298468a2865120ff853d36849ad052da8d07af53388ebbe3aba625039464bd1"
+    },
+    "media/session-5.mp4": {
+      "bytes": 54524796,
+      "sha256": "59f6d6dfc460e237b71bd2493bbd82bbe2aec3d26fdbf7a2f5ca1880f2225ff2"
+    },
+    "Original Assets/PL Leadership - Session 5 - Working in Partnership.pdf": {
+      "bytes": 3848625,
+      "sha256": "10937621b2ba5adb8dd320a0552f1afe3040bb27b4572bfeab1f03957a4b0029"
+    },
+    "assets/slide-updates/session-5-slide-17.png": {
+      "bytes": 221626,
+      "sha256": "fa274632a4bb11834da232f356cf895cbf648a69f26845f9b2f6ff5b353409a8"
+    },
+    "media/session-6.mp4": {
+      "bytes": 19449192,
+      "sha256": "78bd60306f14d3a0ae02b2fb49f4644538e2df2e9431bed16629fb4928790b26"
+    },
+    "Original Assets/PL Leadership - Session 6 - Flourishing and Full Circle.pdf": {
+      "bytes": 2045697,
+      "sha256": "300ebd36cfa9bd0c6c5336cf80e3a04673200e8016f3dac356c4063a13aa379d"
+    },
+    "assets/slide-updates/session-6-slide-8.png": {
+      "bytes": 112535,
+      "sha256": "cc8cd81779124a29e9523b0b58da33059d34ad31e346244cf601c85f4894b2e8"
+    },
+    "assets/slide-updates/session-6-slide-10.png": {
+      "bytes": 61725,
+      "sha256": "8e4878d3546daf9e88d1de419496aa54e9998cbf41fc99e67f858ad3eb026708"
+    },
+    "asset-manifest.json": {
+      "bytes": 24391,
+      "sha256": "ca7fa33b90d34eb2af2b64fcea5418520e2e7e24d2d52fc5f5d86a401381164e"
+    },
+    "playback-manifest.json": {
+      "bytes": 3952,
+      "sha256": "53c93d2cc86968945e5cf71fd09ee032bf16edfe4ed80a148d123f2d01c0e7cc"
+    },
+    "index.html": {
+      "bytes": 385756,
+      "sha256": "e5f103fd6ce0a2c3970fa4c85613638164896b03e4f79ad59d27c9e1398499f1"
+    },
+    "resources.html": {
+      "bytes": 28063,
+      "sha256": "f5a1864e5fd1b44bffc6d168f3d7a0213b114e0f483a9432aa84ca1f1fd29b22"
+    },
+    "viewing-notes.html": {
+      "bytes": 17618,
+      "sha256": "0253421f3edc21e878ab67a83f662f494a1388556ddf974f136343ff48f881b8"
+    },
+    "Viewing notes.md": {
+      "bytes": 2925,
+      "sha256": "315d8b5bc42d1dd6c68fd5121ff39c08815601d36b5f4a746ce8151b6e16fad5"
+    }
+  },
+  "downloads": [
+    {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--session-03.mp4",
+      "sha256": "c2283c90693b350af7fe3171d55e2ff0adb9e5f6cfef4581400ec2ac395686c4",
+      "bytes": 377457054,
+      "previous_sha256": "8bddc3755942c37952873fb4c831aa5db14f3d9f4be48140c49e98b5364b1fd3"
+    },
+    {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--session-04.mp4",
+      "sha256": "2203d28e16e6a6d2f247b40cb15240cca1dca165c4e071d0287295d487255d8e",
+      "bytes": 132979258,
+      "previous_sha256": "128eb27e23eae1a76f33a08aedfa404e4252827c888d9bb56ca0ad084e36ff69"
+    },
+    {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--session-05.mp4",
+      "sha256": "5f6eb5bccd0255574de96a22ef29f43e5d84cb3e421e5824d84f687a7a1a753d",
+      "bytes": 168149792,
+      "previous_sha256": "123dbc02881df4af2abacb9d16d6100b40f30d61c520debd311d00a6cbc3b97d"
+    },
+    {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--session-06.mp4",
+      "sha256": "b992d16008e5f680ebf342f5112ad11a5afe0815369640ac7dc0f0879810bab4",
+      "bytes": 57801575,
+      "previous_sha256": "08f857056c29677ba581b22720cda7cb2b92c3e9dd1aecee7b3a500f69a2a4a0"
+    },
+    {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--full-workshop.mp4",
+      "sha256": "5b7b8809548b8418e8b63ccf11283ed910dd6e84380f9ac43901fe4b366b3505",
+      "bytes": 1239078228,
+      "previous_sha256": "e050c2d0a743c7efea1354bc545e450e2f785efb9f625992f2c3a657d79a3c2c"
+    }
+  ]
+}
