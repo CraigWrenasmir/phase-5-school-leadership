@@ -1,5 +1,7 @@
 # Viewing notes · School Leadership
 
+The Statement of Reconciliation supplied on 27 September 2026 is read aloud after the Acknowledgement of Country in Session 1. Participants are invited to read it in their workbook; the presenter reads it aloud for this demonstration.
+
 This recording models a facilitator delivering the supplied workshop. It supports preparation and reflection, with activity setup, a brief pause and a return to the discussion.
 
 The presenter uses the AI-generated Steve Hogan voice with Eleven Multilingual v2. Original source films retain their original audio. Narration has optional English captions; captions within source films remain as supplied.
@@ -10,7 +12,7 @@ The full workshop, six session videos, captions, readable and structured scripts
 
 ## Sessions
 
-- Session 1 · The Lens — 20:25
+- Session 1 · The Lens - 20:54
 - Session 2 · Understanding Autistic Experience — 28:08
 - Session 3 · Autistic Experience at School — 43:10
 - Session 4 · Learning Design — 29:54
@@ -19,9 +21,8 @@ The full workshop, six session videos, captions, readable and structured scripts
 
 ## Source material that remains unfinished
 
-The simulation preserves the supplied workshop and identifies missing or unconfirmed material in the delivery. It does not invent the organisation’s reconciliation statement, missing student accounts, local arrangements or unconfirmed links. Refer to the original guides and script source notes for the full context.
+The simulation preserves the supplied workshop and identifies missing or unconfirmed material in the delivery. It does not invent missing student accounts, local arrangements or unconfirmed links. Refer to the original guides and script source notes for the full context.
 
-- Session 1, slide 3: The approved statement has not been included in the supplied materials for this recording, so its wording still needs to be added here. See the session script for the context.
 - Session 2, slide 17: A young person's account of deep focus and transitions is planned for this point in the workshop, but the clip is not included in the supplied materials yet. See the session script for the context.
 - Session 4, slide 13: The original slide retains a placeholder for material that is not supplied. See the session script for the context.
 - Session 4, slide 14: The original slide retains a placeholder for material that is not supplied. See the session script for the context.

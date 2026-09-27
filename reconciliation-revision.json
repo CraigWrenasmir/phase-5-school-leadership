@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-27",
+  "workshop": "School Leadership",
+  "scope": "Session 1 after the Acknowledgement of Country",
+  "mode": "replace",
+  "source_slide": 3,
+  "statement": "We at Positive Partnerships value and recognise the diversity of Aboriginal and Torres Strait Islander cultures and heritage and their proud part in Australia’s national identity. We acknowledge and continue to learn about Australia’s colonial past and the historic and ongoing impacts on Australia’s First Nations people. We believe in and strongly support the Truth-telling of Australia’s colonial history and in moving forward as a nation we must encourage open, honest dialogue and build relationships built on respect and trust.",
+  "narration": "Our Statement of Reconciliation is in your workbook for you to read. For the sake of this demonstration, I'll read it aloud. We at Positive Partnerships value and recognise the diversity of Aboriginal and Torres Strait Islander cultures and heritage and their proud part in Australia’s national identity. We acknowledge and continue to learn about Australia’s colonial past and the historic and ongoing impacts on Australia’s First Nations people. We believe in and strongly support the Truth-telling of Australia’s colonial history and in moving forward as a nation we must encourage open, honest dialogue and build relationships built on respect and trust.",
+  "voice": "Steve Hogan",
+  "voice_id": "9B2Vd5yQ7rKaqNmzGdy1",
+  "timing": {
+    "start_seconds": 84.28,
+    "end_seconds": 99.44,
+    "delta_seconds": 28.8,
+    "narration_start_seconds": 84.28
+  },
+  "session_duration_seconds": 1253.64,
+  "combined_duration_seconds": 10042.221,
+  "web": {
+    "url": "media/session-1.mp4?v=a78957d478b6",
+    "bytes": 42588726,
+    "sha256": "a78957d478b6f2887adc2de402d3ff25a9f80b233dde347a1a6764cad1c4e920"
+  },
+  "downloads": [
+    {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--session-01.mp4",
+      "bytes": 143675427,
+      "sha256": "fedae0fd96fe7902f7cea5d5f5fada94384f68d5a51ae40b54fdb462f020f028",
+      "previous_sha256": "436ec2211012e961cc83badb51fd8217603f432f6beadf2756a6afd191de281b"
+    },
+    {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/leadership--full-workshop.mp4",
+      "bytes": 1240290798,
+      "sha256": "e050c2d0a743c7efea1354bc545e450e2f785efb9f625992f2c3a657d79a3c2c",
+      "previous_sha256": "6ddfafa895380633a96b98ba0178436cff245a0038fd3815098a7235b5e960d6"
+    }
+  ],
+  "media_checks": {
+    "web": {
+      "video_slice_payloads_unchanged_outside_bridge": true,
+      "video_packet_timestamps_follow_exact_shift": true,
+      "audio_packets_unchanged_outside_statement_and_margins": true,
+      "audio_packet_timestamps_follow_exact_shift": true,
+      "decoded_statement_matches_supplied_recording": true,
+      "reencoded_context_frames_match_at_least_35db": true,
+      "chapter_metadata_matches_supplied_or_shifted_plan": true,
+      "embedded_caption_text_matches_supplied_srt": true,
+      "embedded_caption_timings_match_supplied_srt_within_1ms": true,
+      "boundary_decoding_passed": true,
+      "exact_frame_count_and_stream_duration_shift": true,
+      "original_stream_start_times_preserved": true,
+      "web_under_100MB": true
+    },
+    "session": {
+      "video_slice_payloads_unchanged_outside_bridge": true,
+      "video_packet_timestamps_follow_exact_shift": true,
+      "audio_packets_unchanged_outside_statement_and_margins": true,
+      "audio_packet_timestamps_follow_exact_shift": true,
+      "decoded_statement_matches_supplied_recording": true,
+      "reencoded_context_frames_match_at_least_35db": true,
+      "chapter_metadata_matches_supplied_or_shifted_plan": true,
+      "embedded_caption_text_matches_supplied_srt": true,
+      "embedded_caption_timings_match_supplied_srt_within_1ms": true,
+      "boundary_decoding_passed": true,
+      "exact_frame_count_and_stream_duration_shift": true,
+      "original_stream_start_times_preserved": true,
+      "web_under_100MB": true
+    },
+    "combined": {
+      "video_slice_payloads_unchanged_outside_bridge": true,
+      "video_packet_timestamps_follow_exact_shift": true,
+      "audio_packets_unchanged_outside_statement_and_margins": true,
+      "audio_packet_timestamps_follow_exact_shift": true,
+      "decoded_statement_matches_supplied_recording": true,
+      "reencoded_context_frames_match_at_least_35db": true,
+      "chapter_metadata_matches_supplied_or_shifted_plan": true,
+      "embedded_caption_text_matches_supplied_srt": true,
+      "embedded_caption_timings_match_supplied_srt_within_1ms": true,
+      "boundary_decoding_passed": true,
+      "exact_frame_count_and_stream_duration_shift": true,
+      "original_stream_start_times_preserved": true,
+      "web_under_100MB": true
+    }
+  },
+  "preservation": {
+    "original_source_files_unchanged": true,
+    "source_slide_numbers_unchanged": true,
+    "previous_affirmative_openings_preserved": true,
+    "previous_identity_slide_replacements_preserved": true,
+    "later_session_files_unchanged": true,
+    "later_combined_timings_shifted_by_seconds": 28.8
+  },
+  "earlier_revision_records": [
+    "slide-replacement.json",
+    "opening-narration-revision.json"
+  ],
+  "provenance_note": "Earlier revision records describe their respective historical revisions. This record supplies the current Session 1 and combined video hashes."
+}
